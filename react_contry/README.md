@@ -37,7 +37,7 @@ Experience the app live: [Tour The Globe](https://tourtheglobe.netlify.app)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sandeep1404-praj/WorldTour.git
+   git clone https://github.com/sandeep1404-praj/World-Tour.git
    ```
 2. Navigate to the project directory:
    ```bash
